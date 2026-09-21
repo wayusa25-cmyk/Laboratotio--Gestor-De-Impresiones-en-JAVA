@@ -19,9 +19,6 @@ Ambas estructuras se declaran como `Deque<String>` (implementación `ArrayDeque`
 
 Antes de retirar elementos, el programa valida que la estructura no esté vacía.
 
-## TDA (Tipo de Dato Abstracto)
-
-El gestor se apoya en dos TDA lineales. Cada uno se define por sus datos y por las operaciones permitidas, sin depender de cómo se implemente internamente.
 
 ### TDA Cola de documentos pendientes
 
